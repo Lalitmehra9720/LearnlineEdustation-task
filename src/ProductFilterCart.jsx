@@ -4,7 +4,9 @@ import CategoryFilter from "./components/CategoryFilter";
 import ProductGrid from "./components/ProductGrid";
 import CartSidebar from "./components/CartSidebar";
 import Overlay from "./components/Overlay";
-import { initialProducts } from "./data/products";
+import { initialProducts } from "./data/Products";
+
+
 
 export default function ProductFilterCart() {
 
